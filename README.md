@@ -4,3 +4,5 @@
 # PEPELINE -- GLOBAL ТRЯCINA
 
 # Let's hating AZURE
+
+# 1.1
